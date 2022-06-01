@@ -1,0 +1,37 @@
+body
+{
+    font-family: 'Oswald', sans-serif;
+    background-image: linear-gradient(royalblue, rgb(151, 196, 255));
+}
+
+.header div {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:rgb(133, 166, 255);
+    background-color: lightblue;
+    border-radius: 35px;
+}
+
+.main_div{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 10px;
+    letter-spacing: normal;
+}
+
+p{
+    border-radius: 10px;
+}
+
+.main_div button{
+    font-weight: 500;
+    border-radius: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.copyright_footer{
+    position:fixed;
+    background-color: rgb(230, 230, 230);
+    width: 100%;
+    text-align: center;
+    text-shadow: 4px 4px 4px;
+    bottom: 0;
+}
